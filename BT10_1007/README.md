@@ -177,8 +177,7 @@ logging.level.org.springframework.web.socket=DEBUG
 - Sử dụng browser developer tools để debug WebSocket
 
 ## Tác Giả
-
-Sinh viên thực hiện dự án tìm hiểu WebSocket và Spring Boot.
+Lê Văn Chiến Thắng 23110328
 
 ## License
 
